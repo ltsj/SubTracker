@@ -10,7 +10,7 @@
 		"enabled": true
 	},
 	"vars": {
-		"WEB_ORIGIN": "http://127.0.0.1:8787",
+		"WEB_ORIGIN": "https://subtracker.zeyanqu.workers.dev",
 		"BASE_CURRENCY": "CNY",
 		"DEFAULT_APP_LOCALE": "zh-CN",
 		"DEFAULT_NOTIFY_DAYS": "3",
