@@ -1,5 +1,7 @@
 name: Lite CI and Deploy
 
+# Fork deployment workflow for Cloudflare Workers lite branch.
+
 on:
   workflow_dispatch:
   push:
